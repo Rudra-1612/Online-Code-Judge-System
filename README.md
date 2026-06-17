@@ -92,26 +92,6 @@ Retrieve ranked participant scores.
 
 ---
 
-## Installation
-
-### Clone Repository
-
-git clone https://github.com/your-username/online-code-judge.git
-
-### Install Dependencies
-
-npm install
-
-### Start Backend
-
-node server.js
-
-### Start Frontend
-
-npm run dev
-
----
-
 ## Future Enhancements
 
 - Multi-language support (C++, Java, Python)
